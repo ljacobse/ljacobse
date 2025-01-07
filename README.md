@@ -1,4 +1,5 @@
-## Hi there 👋
+Here I'll keep a repository of scripts (mostly for Igor Pro) used in my research.
+Most of these contributions should be considered snippets rather than completely debugged scripts, so some tweaking might be necessary for your personal application.
 
 <!--
 **ljacobse/ljacobse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
